@@ -7,7 +7,7 @@ public class App {
 //        user1.set_ranking(User.Ranking.Srebrny.name());
 //
 //       User user2 = new User("Janek", "Jankowski");
-//       // user2.set_imie("Janek");
+//       user2.set_imie("Janek");
 //        user2.set_ranking(User.Ranking.Złoty.name());
 
         Admin admin1 = new Admin();
